@@ -1,0 +1,6 @@
+~*
+*~
+*.wsgi
+*.pyc
+*.swp
+.private_settings
